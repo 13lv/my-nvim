@@ -1,0 +1,27 @@
+# --- files
+#
+#.gitignore
+#
+*.conf
+*.log
+*.txt
+*.csv
+*.db
+*settings.py
+*settings.json
+*config.py
+*test.py
+*.swp
+*.old
+*.original
+
+templates_links.py
+
+# --- dirs
+#
+**/__pycache__
+
+**/[Ll][Oo][Gg][Ss]
+**/[Tt][Ee][Ss][Tt]
+**/[Ff][Ii][Ll][Ee][Ss]
+
